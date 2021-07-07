@@ -1,10 +1,10 @@
 [[redirects]]
-  from = "http://cert.rikeijanaihito.tokyo/robots.txt"
+  from = "https://cert.rikeijanaihito.tokyo/robots.txt"
   to = "/robots_cert.txt"
   status = 200
   force = true
 [[redirects]]
-  from = "http://www.rikeijanaihito.tokyo/*"
+  from = "https://www.rikeijanaihito.tokyo/*"
   to = "https://rikeijanaihito.tokyo/:splat"
   status = 301
   force = true
